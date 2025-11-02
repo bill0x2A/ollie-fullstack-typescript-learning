@@ -130,7 +130,6 @@ yay -S visual-studio-code-bin
 
 After installing VS Code, install these extensions for the best development experience:
 
-**Essential:**
 - **ESLint** (`dbaeumer.vscode-eslint`) - JavaScript/TypeScript linting
 - **Prettier** (`esbenp.prettier-vscode`) - Code formatter
 - **TypeScript Language Features** (built-in) - Core TypeScript support
@@ -143,19 +142,6 @@ After installing VS Code, install these extensions for the best development expe
 3. Search for the extension name
 4. Click "Install"
 
-Or install via command line:
-```bash
-code --install-extension dbaeumer.vscode-eslint
-code --install-extension esbenp.prettier-vscode
-code --install-extension dsznajder.es7-react-js-snippets
-code --install-extension ms-vscode.vscode-typescript-next
-code --install-extension bradlc.vscode-tailwindcss
-code --install-extension usernamehw.errorlens
-code --install-extension formulahendry.auto-rename-tag
-code --install-extension christian-kohler.path-intellisense
-code --install-extension eamodio.gitlens
-code --install-extension rangav.vscode-thunder-client
-```
 
 #### For Windows Users: Set up WSL (Windows Subsystem for Linux)
 
